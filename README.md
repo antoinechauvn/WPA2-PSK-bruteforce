@@ -71,6 +71,8 @@ La taille de la GTK dépend du protocole de chiffrement:
 
 Le HMAC est défini dans la RFC 2104 de l'IETF et le SHA1 dans la FIPS PUB 180-3-2008. La sortie du HMAC-SHA1 est tronquée à ses 128 MSB (octets 0-15 du condensé produit par le HMAC-SHA1), c'est-à-dire que les quatre derniers octets générés sont rejetés.
 
+![image](https://user-images.githubusercontent.com/83721477/228970459-e8cab19a-e25c-4279-9633-e1d00de44b95.png)
+
 ## Sources
 
 [https://github.com/koutto/pi-pwnbox-rogueap/wiki/05.-WPA-WPA2-Personal-(PSK)-Authentication](https://github.com/koutto/pi-pwnbox-rogueap/wiki/05.-WPA-WPA2-Personal-%28PSK%29-Authentication)
